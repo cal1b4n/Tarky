@@ -32,8 +32,10 @@ to run the bot
 
 
 # Commands
-I've currently added pretty simple commands for testing purposes
->!servers Shows member count of every server the bot is on
->!joke (Why not?!)
->!cc (clears all the messages in the channel (Only if user has ADMINISTRATOR role)
->!status <parameters> (changes bot status (Only if user has ADMINISTRATOR role)
+I've currently added pretty simple commands for testing purposes:
+```
+!servers Shows member count of every server the bot is on
+!joke (Why not?!)
+!cc (clears all the messages in the channel (Only if user has ADMINISTRATOR role)
+!status <parameters> (changes bot status (Only if user has ADMINISTRATOR role)
+```
