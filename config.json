@@ -1,4 +1,7 @@
 {
     "prefix": "!",
     "token": "your-discord-bot-token-goes-here"
-}
+    "TrackerNetworkAPI": "",
+    "YouTubeAPI": "",
+    "GiphyAPI": ""
+}1
